@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Umar Farouq
-- 👀 I’m a passionate Web Developer currently exploring Front End development.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on any Front End Development Project.
-- You could reach out to me via:
-- Email: umarmubay360@gmail.com
-- Whatsapp: wa.me/2348080805799
+Hi👋 I'm Umar Farouq
+Software Engineer | Full-Stack Developer
 
-<!---
-UmarTambari360/UmarTambari360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer Science graduate from Ahmadu Bello University, Zaria, specializing in scalable web applications, modular backend architecture, and community leadership. Former President of NACOS ABU Zaria and founder of the Computer Science Tech Community (CSTC).
+
+🛠️ Tech Stack & Tools
+Languages: TypeScript, JavaScript, Python, SQL
+
+Backend & Database: Node.js, Express.js, PostgreSQL, Drizzle ORM, Redis, REST & GraphQL APIs
+
+Frontend: Next.js, React, Tailwind CSS
+
+DevOps & Tooling: Docker, Linux (Ubuntu), pnpm
+
+🚀 What I'm Up To
+🏗️ Engineering decoupled full-stack architecture & high-performance backend systems.
+
+📚 Writing technical breakdown series and mentoring emerging software engineers.
+
+🎯 Expanding expertise into Machine Learning and Data Science with Python.
+
+📬 Connect with Me
+Email: umarmubay360@gmail.com
+Whatsapp: wa.me/2348080805799
